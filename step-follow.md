@@ -55,3 +55,5 @@ Let’s create a bootstrap normal form to get customer information and amount de
     </body>
 </html>
 
+![Screenshot](img/step_3.png)
+
