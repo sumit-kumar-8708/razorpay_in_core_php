@@ -12,6 +12,7 @@ Let’s create a bootstrap normal form to get customer information and amount de
 
 **Create an `index.php` page and copy and paste the following code into your `index.php` file.**
 
+```html
 <!DOCTYPE html>
 <html>
     <head>
